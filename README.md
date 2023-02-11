@@ -1,3 +1,3 @@
 # Scraping-5
 
-Scraping from https://uzorg.info/
+Scraping from https://s106.skladchina.biz
